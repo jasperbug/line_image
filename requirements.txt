@@ -1,0 +1,7 @@
+Flask
+flask-cors
+python-dotenv
+Werkzeug
+openai
+line-bot-sdk
+gunicorn
